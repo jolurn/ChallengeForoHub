@@ -83,7 +83,7 @@ API REST para un sistema de foros educativos con autenticación JWT. Permite cre
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/confecciones-5368b.appspot.com/o/diagrama_base_de_datos_forohub.png?alt=media&token=d2d6fd64-353e-4d55-9e52-c326e5e762be)
 
 ### 🧪 Pruebas con Insomnia
-Configura environment con:
+- Configura environment con:
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/confecciones-5368b.appspot.com/o/Captura%20de%20pantalla%202025-07-19%20022912.jpg?alt=media&token=0321c855-44ae-454d-96f7-e776d53f6dec)
 
 ### 📌 Reglas de Negocio
@@ -111,4 +111,6 @@ Filtros:
 - git commit -m "Descripción clara"
 - git push origin nombre-rama
 
+## GitHub Analytics
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jolurn&theme=github_dark)](https://github.com/jolurn)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
